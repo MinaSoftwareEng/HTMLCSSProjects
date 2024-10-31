@@ -2,7 +2,7 @@
 
 Welcome to my animated birthday card project! 🎉
 
-You can view the card here: [a link](https://rawcdn.githack.com/MinaSoftwareEng/HTMLCSSProjects/dbd081f528e399ef5ad8d082624e49faff12158e/index.html)
+You can view the card here: [a link](https://raw.githack.com/MinaSoftwareEng/HTMLCSSProjects/main/index.html)
 
 ## Features
 - Animated design
